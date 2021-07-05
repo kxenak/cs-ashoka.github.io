@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>The Computer Science Society at Ashoka University was founded in 2016 to strengthen the emerging CS culture on campus. It is an academic society (under the OAA) that aims to create opportunities and resources for all students interested in this field through a host of activities. Students across majors and disciplines are welcome to join!</p>
 
 <a href="https://www.instagram.com/cs.ashoka/"><img src="assets/images/ig.png" width="50" style="padding-left: 10px; " alt="Instagram"></a>
 <a href="https://www.linkedin.com/company/69434634"><img src="assets/images/linkedin.png" width="70" style="padding-left: 30px; " alt="LinkedIn"></a>

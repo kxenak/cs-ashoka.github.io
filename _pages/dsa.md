@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>If you're someone who likes to find newer, faster, and more interesting ways of tackling programming problems, the DSA Wing is for you. Rebranded from the earlier Competitive Programming Wing, the DSA Wing is a place to engage in collaboration (and a little bit of competition). Together, we'll prepare for mid/large (Uber, Microsoft, Google, Ola) company technical interviews for internship/job opportunities, along with other programming contests like the ACM-ICPC, Google Kickstart, Facebook HackerCup etc. </p>
 
 
 <h4> Core Team </h4>

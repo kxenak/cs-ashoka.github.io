@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
-author: sal
-categories: [ Jekyll ]
-image: "https://images.unsplash.com/photo-1541544537156-7627a7a4aa1c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20c472bc23308e390c8ffae3dd90c60&auto=format&fit=crop&w=750&q=80"
+title:  "Alumni Connect - S1"
+author: tanvi
+categories: [ society ]
+image: assets/images/alumcon.png
 ---
 > I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.
 
@@ -11,3 +11,6 @@ So begins Hallam Hawksworth’s The Strange Adventures of a Pebble. Written in t
 
 I don’t want you to think that I’m boasting, but I do believe I’m one of the greatest travellers that ever was; and if anybody, living or dead, has ever gone through with more than I have I’d like to hear about it.
 Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.
+
+https://twwwe-exhibition.netlify.app
+

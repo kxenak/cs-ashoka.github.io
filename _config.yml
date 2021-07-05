@@ -1,7 +1,7 @@
 # Site
 name: "CS Society"
 title: "CS Society"
-description: "Official CS Society at Ashoka University"
+description: "The official CS Society of Ashoka University"
 logo: 'assets/images/cssoc.png'
 favicon: 'assets/images/cssoc-icon.png'
 baseurl: ''
