@@ -3,7 +3,7 @@ layout: post
 title:  "Options for creating a new site with Jekyll"
 author: john
 categories: [ Jekyll, tutorial ]
-image: assets/images/13.jpg
+image: "https://images.unsplash.com/photo-1541544537156-7627a7a4aa1c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20c472bc23308e390c8ffae3dd90c60&auto=format&fit=crop&w=750&q=80"
 ---
 
 `jekyll new <PATH>` installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called `myblog`. Here are some additional details:

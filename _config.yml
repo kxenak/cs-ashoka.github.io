@@ -13,23 +13,63 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  soham:
+    name: Soham De
+    display_name: Soham De
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/soham.png'
+    email: soham.de_ug22@ashoka.edu.in
+    web: https://www.sohamde.in
+    twitter: https://twitter.com/actuallysoham
+    description: "CS Undergrad @ Ashoka"
+  tanvi:
+    name: Tanvi Roy
+    display_name: Tanvi Roy    
+    avatar: 'assets/images/tanvi.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: tanvi.roy_ug22@ashoka.edu.in
+    web: https://www.tanviroy.com
+    description: "CS Undergrad @ Ashoka"
+  bagchi:
+    name: Soham Bagchi 
+    display_name: Soham Bagchi    
+    avatar: 'assets/images/bagchi.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: tanvi.roy_ug22@ashoka.edu.in
+    web: https://www.tanviroy.com
+    description: "CS Undergrad @ Ashoka"
+  manish:
+    name: Manish Rajani 
+    display_name: Manish Rajani     
+    avatar: 'assets/images/manish.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: tanvi.roy_ug22@ashoka.edu.in
+    web: https://www.tanviroy.com
+    description: "CS Undergrad @ Ashoka"
+  akshat:
+    name: Akshat Singh 
+    display_name: Akshat Singh     
+    avatar: 'assets/images/akshat.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: tanvi.roy_ug22@ashoka.edu.in
+    web: https://www.tanviroy.com
+    description: "CS Undergrad @ Ashoka"
+  vibodh:
+    name: Vibodh Nautiyal 
+    display_name: Vibodh Nautiyal     
+    avatar: 'assets/images/vibodh.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: tanvi.roy_ug22@ashoka.edu.in
+    web: https://www.tanviroy.com
+    description: "CS Undergrad @ Ashoka"
+  admin:
+    name: CS Society
+    display_name: CS Society
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/admin.png'
+    email: cs.society@ashoka.edu.in
+    web: https://www.cs-ashoka.github.io
+    description: "Admin"
 
 # Plugins
 plugins:

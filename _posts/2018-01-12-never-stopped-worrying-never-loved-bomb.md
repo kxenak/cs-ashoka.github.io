@@ -3,7 +3,7 @@ layout: post
 title:  "Never stopped worrying or loving the bomb"
 author: sal
 categories: [ Jekyll ]
-image: assets/images/14.jpg
+image: "https://images.unsplash.com/photo-1541544537156-7627a7a4aa1c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a20c472bc23308e390c8ffae3dd90c60&auto=format&fit=crop&w=750&q=80"
 ---
 > I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.
 
