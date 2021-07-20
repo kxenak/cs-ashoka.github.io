@@ -5,8 +5,8 @@
     <description>The official CS Society of Ashoka University</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Jul 2021 20:25:21 +0530</pubDate>
-    <lastBuildDate>Mon, 05 Jul 2021 20:25:21 +0530</lastBuildDate>
+    <pubDate>Wed, 21 Jul 2021 01:38:33 +0530</pubDate>
+    <lastBuildDate>Wed, 21 Jul 2021 01:38:33 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -73,16 +73,7 @@
     
       <item>
         <title>Alumni Connect - S1</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So begins Hallam Hawksworth’s The Strange Adventures of a Pebble. Written in the 1920s, the book was part of a series which also included The Adventures of a Grain of Dust and A Year in the Wonderland of Trees, all of which were supposed to introduce children to the world of Natural Sciences. In each of them, Hawksworth personifies the natural object he is exploring, and using a mixture of folk tales, scientific facts and colloquial, friendly explanations guides the reader through the history of the natural world. It’s a real thrill of a ride, dramatizing the life cycle of supposedly dull things. The Adventures of a Grain of Dust begins even more loudly than Pebble:&lt;/p&gt;
-
-&lt;p&gt;I don’t want you to think that I’m boasting, but I do believe I’m one of the greatest travellers that ever was; and if anybody, living or dead, has ever gone through with more than I have I’d like to hear about it.
-Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.&lt;/p&gt;
-
-&lt;p&gt;https://twwwe-exhibition.netlify.app&lt;/p&gt;
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 04 Apr 2021 00:00:00 +0530</pubDate>
@@ -96,19 +87,7 @@ Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was mar
     
       <item>
         <title>Exploring CS Research with Prof Debayan</title>
-        <description>&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/cs-research-debg/</link>
@@ -120,20 +99,98 @@ Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was mar
       </item>
     
       <item>
-        <title>Fancy people use LaTeX</title>
-        <description>&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
+        <title>A User's Tutorial to LaTeX</title>
+        <description>&lt;p&gt;LaTeX is often made to seem more complicated than it really is. But what is it really? LaTeX is a:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Document Preparation System&lt;/li&gt;
+  &lt;li&gt;It’s kindof a programming language for documents&lt;/li&gt;
+  &lt;li&gt;It’s pronounced &lt;em&gt;Lay-tech&lt;/em&gt; or &lt;em&gt;Lah-tech&lt;/em&gt; not &lt;em&gt;Lay-teks&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;It’s not WYSIWIG (What You See is What You Get)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Why should any of us use LaTeX? In one word, it’s &lt;strong&gt;control&lt;/strong&gt;. With Office Productivity software like Microsoft Office Word, &lt;em&gt;sure&lt;/em&gt; you can make a pretty document, but you can’t create a header with pre-programmed author names, automatically updating dates and custom styling (or maybe you can, but then you’ll have to use your mouse and click through a bunch of different menus looking for the right setting, and then something will go wrong, and then you’ll try something else… and the list goes on and on).&lt;/p&gt;
 
-&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
+&lt;p&gt;And if there’s ever anything that you can’t do using LaTeX, not to worry! LaTeX has modules and packaages that you can install and import, that do all sorts of things for you - from predefined algorithm notations, coloured code outputs, even coordinate-based diagram drawing.&lt;/p&gt;
 
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
+&lt;h2 id=&quot;so-how-do-we-get-started-with-latex&quot;&gt;So, how do we get started with LaTeX?&lt;/h2&gt;
 
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
+&lt;p&gt;Well, there’s a bunch of things you could do. You could go the fancy way and install a LaTeX editor on your computer (TexMaker on Windows, MacTeX on OSX), or you could go the easy way and use &lt;a href=&quot;https://www.overleaf.com&quot;&gt;Overleaf&lt;/a&gt; - which is what we’re going to do because we’re lazy and this is fast!&lt;/p&gt;
 
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/overleaflogin.png&quot; alt=&quot;Logging in on Overleaf&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s pretty easy to use their interface to quickly build your first LaTeX document - be it your Discrete Math assignment, or the next ground-breaking research paper.&lt;/p&gt;
+
+&lt;h2 id=&quot;hmm-im-not-sure-im-quite-there-yet&quot;&gt;Hmm, I’m not sure I’m quite there yet…&lt;/h2&gt;
+
+&lt;p&gt;That’s okay, here’s a brief overview of what all is there:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preamble
+    &lt;ul&gt;
+      &lt;li&gt;Packages - &lt;code class=&quot;highlighter-rouge&quot;&gt;\usepackage{packagename}&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Document Type - &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;k&quot;&gt;\documentclass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;article|book&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Other Metadata - &lt;code class=&quot;highlighter-rouge&quot;&gt;\title{Sample}&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;\author{CS Society}&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The Body
+    &lt;ul&gt;
+      &lt;li&gt;Environments
+        &lt;ul&gt;
+          &lt;li&gt;These are basically enclosed spaces that have a specific output format. They have a &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin&lt;/code&gt; and an &lt;code class=&quot;highlighter-rouge&quot;&gt;\end&lt;/code&gt; (like most living things).&lt;/li&gt;
+          &lt;li&gt;Examples
+            &lt;ul&gt;
+              &lt;li&gt;Math (Inline) - &lt;code class=&quot;highlighter-rouge&quot;&gt;$(a + b)^2 = a^2 + b^2 + 2 \cdot a \cdot b$&lt;/code&gt; outputs $(a + b)^2 = a^2 + b^2 + 2 \cdot a \cdot b$&lt;/li&gt;
+              &lt;li&gt;Math (Multiline) - &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{align*} ... \end{align*}&lt;/code&gt; (The * omits automatic line numbering, if you simply do &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{align}&lt;/code&gt; each line will have a number)&lt;/li&gt;
+              &lt;li&gt;Numbered Lists - &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{enumerate} \item ... \item ... \end{enumerate}&lt;/code&gt;&lt;/li&gt;
+              &lt;li&gt;Bullet Lists - &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{itemize} \item ... \item ... \end{itemize}&lt;/code&gt;&lt;/li&gt;
+              &lt;li&gt;Tables - &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{tabular}{| c | c | c |} ... \end{tabular}&lt;/code&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Commands
+        &lt;ul&gt;
+          &lt;li&gt;Formatting, alignment, all sorts of other fun things:&lt;/li&gt;
+          &lt;li&gt;Examples
+            &lt;ul&gt;
+              &lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt; - &lt;code class=&quot;highlighter-rouge&quot;&gt;\textbf{Bold}&lt;/code&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;em&gt;Italics&lt;/em&gt; - &lt;code class=&quot;highlighter-rouge&quot;&gt;\textit{Italics}&lt;/code&gt;&lt;/li&gt;
+              &lt;li&gt;Underline - &lt;code class=&quot;highlighter-rouge&quot;&gt;\underline{Underline (This document wasn't written in LaTeX unfortunately)}&lt;/code&gt;&lt;/li&gt;
+              &lt;li&gt;Section - &lt;code class=&quot;highlighter-rouge&quot;&gt;\section{Section Name}&lt;/code&gt;&lt;/li&gt;
+              &lt;li&gt;Section (Unnumbered) - &lt;code class=&quot;highlighter-rouge&quot;&gt;\section*{Unnumbered Section Name}&lt;/code&gt;&lt;/li&gt;
+              &lt;li&gt;Math Symbols - &lt;code class=&quot;highlighter-rouge&quot;&gt;\int&lt;/code&gt; $\int$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\sum&lt;/code&gt; $\sum$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\prod&lt;/code&gt; $\prod$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\times&lt;/code&gt; $\times$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\cdot&lt;/code&gt; $\cdot$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\infty&lt;/code&gt; $\infty$&lt;/li&gt;
+              &lt;li&gt;Math Exponents - &lt;code class=&quot;highlighter-rouge&quot;&gt;\sqrt[n]{a}&lt;/code&gt; $\sqrt[n]{a}$ &lt;code class=&quot;highlighter-rouge&quot;&gt;A^{20}_{10}&lt;/code&gt; $A^{20}_{10}$&lt;/li&gt;
+              &lt;li&gt;Math Fractions - &lt;code class=&quot;highlighter-rouge&quot;&gt;\frac{10}{20}&lt;/code&gt; $\frac{10}{20}$&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;okay-i-got-this-whats-next&quot;&gt;Okay, I got this, what’s next?&lt;/h2&gt;
+
+&lt;p&gt;Now that you’ve covered the basics, what remains is to get good, and then do the fancy pro-stuff. Here’s some stuff to get started:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX&quot;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_(Part_1)%E2%80%94Basic_Drawing&quot;&gt;Diagrams using TikZ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.overleaf.com/latex/templates&quot;&gt;Templates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://latexresu.me/&quot;&gt;Make a Stylish LaTeX Resume&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;Markdown&lt;/a&gt; - All the blogs on this website were written on Markdown, another popular (but less powerful) typesetting format.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;thats-a-lot-to-keep-track-of-isnt-it&quot;&gt;That’s a lot to keep track of, isn’t it?&lt;/h2&gt;
+
+&lt;p&gt;It sure is! That’s why there’s a whole bunch of different LaTeX cheatsheets available online that list the most commonly used environments, commands and packages. Here’s a few that might be useful:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wch.github.io/latexsheet/&quot;&gt;Winston Chang’s Cheatsheet&lt;/a&gt; - Geared towards Scientific Papers&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://people.cs.umass.edu/~freedman/resources/Freedman_LaTeXCheatSheet.pdf&quot;&gt;University of Massachusetts Amherst&lt;/a&gt; - A Super Brief, Yet Super Awesome, LaTeX Cheat Sheet&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Have fun creating many many pretty documents in the future!&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Feb 2021 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/latex/</link>
@@ -148,17 +205,7 @@ Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was mar
     
       <item>
         <title>Machine Learning without Code</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So begins Hallam Hawksworth’s The Strange Adventures of a Pebble. Written in the 1920s, the book was part of a series which also included The Adventures of a Grain of Dust and A Year in the Wonderland of Trees, all of which were supposed to introduce children to the world of Natural Sciences. In each of them, Hawksworth personifies the natural object he is exploring, and using a mixture of folk tales, scientific facts and colloquial, friendly explanations guides the reader through the history of the natural world. It’s a real thrill of a ride, dramatizing the life cycle of supposedly dull things. The Adventures of a Grain of Dust begins even more loudly than Pebble:&lt;/p&gt;
-
-&lt;p&gt;I don’t want you to think that I’m boasting, but I do believe I’m one of the greatest travellers that ever was; and if anybody, living or dead, has ever gone through with more than I have I’d like to hear about it.
-Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.&lt;/p&gt;
-
-&lt;p&gt;https://twwwe-exhibition.netlify.app&lt;/p&gt;
-
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Nov 2020 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/ml-without-code/</link>
@@ -171,19 +218,7 @@ Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was mar
     
       <item>
         <title>Getting Competitve with Coding</title>
-        <description>&lt;p&gt;Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Oct 2020 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/into-to-cp/</link>
@@ -198,15 +233,7 @@ Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was mar
     
       <item>
         <title>Exploring Open-Source with Hacktoberfest</title>
-        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
-  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
-  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Oct 2020 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/hacktoberfest-2020/</link>
