@@ -5,8 +5,8 @@
     <description>The official CS Society of Ashoka University</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Jul 2021 01:38:33 +0530</pubDate>
-    <lastBuildDate>Wed, 21 Jul 2021 01:38:33 +0530</lastBuildDate>
+    <pubDate>Wed, 21 Jul 2021 01:46:01 +0530</pubDate>
+    <lastBuildDate>Wed, 21 Jul 2021 01:46:01 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -116,7 +116,7 @@
 
 &lt;p&gt;Well, there’s a bunch of things you could do. You could go the fancy way and install a LaTeX editor on your computer (TexMaker on Windows, MacTeX on OSX), or you could go the easy way and use &lt;a href=&quot;https://www.overleaf.com&quot;&gt;Overleaf&lt;/a&gt; - which is what we’re going to do because we’re lazy and this is fast!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/overleaflogin.png&quot; alt=&quot;Logging in on Overleaf&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/overleaflogin.png&quot; alt=&quot;Logging in on Overleaf&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It’s pretty easy to use their interface to quickly build your first LaTeX document - be it your Discrete Math assignment, or the next ground-breaking research paper.&lt;/p&gt;
 
