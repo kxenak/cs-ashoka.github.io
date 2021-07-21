@@ -6,4 +6,6 @@ categories: [ dev, tutorial ]
 image: assets/images/hacktoberfest.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hacktoberfest 2020 is a month-long event powered by DigitalOcean, Intel, and DEV to promote the culture of open-source software. In our workshop this Sunday 'Introduction to Git and GitHub', you'll be learning all about Version Control and be prepared to start contributing to the open-source community! If you actively contribute to public repositories in October (and we'll teach you all of this!), you'll be getting a free Official Hacktoberfest T-Shirt from DigitalOcean and many more developer swags!
+
+If you're new to this, we highly recommend attending our introductory workshop (open to all Ashokans), which is officially recognized by DigitalOcean and listed here. All workshop attendees will also get access to official Hacktoberfest resources, cheatsheets, and goodies.
