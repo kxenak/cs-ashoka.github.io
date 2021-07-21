@@ -899,3 +899,28 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  gap: 30px;
+}
+
+.dev-wrapper1 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  gap: 10px;
+}
+
+.dev-wrapper2 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  gap: 30px;
+}
+.author-thumb {
+    width: 75px;
+    height: 75px;
+}

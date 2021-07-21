@@ -8,7 +8,11 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>The Computer Science Society at Ashoka University was founded in 2016 to strengthen the emerging CS culture on campus. It is an academic society (under the OAA) that aims to create opportunities and resources for all students interested in this field through a host of activities. Students across majors and disciplines are welcome to join!</p>
+<p>The CS Society at Ashoka is a rapidly growing space for like-minded people to come together, explore and nurture their interests in Computer Science. The Society has 3 main verticals covering CS Research, Data Structures and Algorithms, Software Development, Machine Learning and much more. </p>
+
+<p>Over the past years, we have conducted multiple interactive workshops, panel discussions, competitions and other events for the CS community on campus and beyond. Among the more notable events, we've partnered with DigitalOcean and CodeChef to conduct various competitions and events throughout the year, conducted Google's ExploreML program on campus and are currently working on Ashoka's first-ever hackathon, RedBrick Hacks. In the past, we've invited guest speakers from our Microsoft Research India, Stanford University and even our own CS faculty.</p> 
+
+<p>For the future, we plan on increasing the number of innovative events and taking more steps towards building a healthy community of interdisciplinary computer science enthusiasts.</p>
 
 <a href="https://www.instagram.com/cs.ashoka/"><img src="assets/images/ig.png" width="50" style="padding-left: 10px; " alt="Instagram"></a>
 <a href="https://www.linkedin.com/company/69434634"><img src="assets/images/linkedin.png" width="70" style="padding-left: 30px; " alt="LinkedIn"></a>
@@ -16,7 +20,9 @@ comments: true
 
 <br/>
 <br/>
+<br/>
 
+<h4>Our Manifesto</h4>
 <iframe src="/assets/files/readme.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 <br/>
@@ -27,7 +33,71 @@ comments: true
 
 <h4>Our Team</h4>
 
-<h6> Core </h6>
+<h6> Senior Leadership </h6>
+
+<div class="wrapper">
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/bagchi.png" alt="Soham Bagchi">
+        <span class="author-description"> <br/> <b>Soham Bagchi</b> <br/> <font size="-1">President</font></span>
+        </center>
+  </div>
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/tanvi.png" alt="Tanvi Roy">
+        <span class="author-description"> <br/> <b>Tanvi Roy</b> <br/> <font size="-1">Head, Dev</font></span>
+        </center>
+  </div>
+  <div class="two">
+        <center>
+        <img class="author-thumb" src="assets/images/manish.png" alt=">Manish Rajani">
+        <span class="author-description"> <br/> <b>Manish Rajani</b> <br/> <font size="-1">Head, Research</font></span>
+        </center>
+  </div>
+  <div class="three">
+      <center>
+        <img class="author-thumb" src="assets/images/vibodh.png" alt="Vibodh Nautiyal">
+        <span class="author-description"> <br/> <b>Vibodh Nautiyal</b> <br/> <font size="-1">Head, DSA</font></span>
+        </center>
+  </div>
+  <div class="four">
+      <center>
+        <img class="author-thumb" src="assets/images/akshat.png" alt="Akshat Singh">
+        <span class="author-description"> <br/> <b>Esha Machanda</b> <br/> <font size="-1">Head, DSA</font></span>
+        </center>
+  </div>
+  <div class="five">
+      <center>
+        <img class="author-thumb" src="assets/images/soham.png" alt="Soham De">
+        <span class="author-description"> <br/> <b>Soham De</b> <br/> <font size="-1">Head, Dev & Research, Founding President</font></span>
+        </center>
+  </div>
+</div>
+
+<br/>
+<br/>
+
+<h6> Advisory </h6>
+
+<div class="dev-wrapper1">
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/onish.png" alt="Onish Garg">
+        <span class="author-description"> <br/> <b>Onish Garg</b> <br/> <font size="-1">Alumni, Currently: Google</font></span>
+        </center>
+  </div>
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/archit.png" alt="Archit Checker">
+        <span class="author-description"> <br/> <b>Archit Checker</b> <br/> <font size="-1">Ex-AmuseLabs</font></span>
+        </center>
+  </div>
+</div>
+
+<br/>
+<br/>
+
+<!--
 
 <div class="row post-top-meta">
     <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
@@ -89,6 +159,8 @@ comments: true
     </div>
 </div>
 
+
+
 <h6> Advisory </h6>
 
 <div class="row post-top-meta">
@@ -134,6 +206,7 @@ comments: true
             <a target="_blank" class="link-dark" href="{{ author.web }}"> Member Name </a>
     </div>
 </div>
+-->
 
 <h4>Questions or bug reports?</h4>
 
