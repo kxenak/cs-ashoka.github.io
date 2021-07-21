@@ -78,6 +78,10 @@
 <loc>http://localhost:4000/category/report/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/assets/files/ml1.pdf</loc>
+<lastmod>2021-07-21T12:20:53+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/files/readme.pdf</loc>
 <lastmod>2021-07-05T16:12:55+05:30</lastmod>
 </url>

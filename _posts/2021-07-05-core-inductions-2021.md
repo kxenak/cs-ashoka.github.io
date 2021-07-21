@@ -18,11 +18,12 @@ Each of the three wings has their own core team that together make up the Societ
 * **Data Structures and Algorithms** - Rebranded from the earlier Competitive Programming Wing, join us to plan discussions and training events for technical interviews and international programming competitions. Current Leadership: Akshat Singh, Vibodh Nautiyal
 * **CS Research** - If reading research papers, and learning about new advancements in the field of Computer Science is for you, join the CS Research wing, where we'll organize reading sessions and conduct independent research on exciting themes. Current Leadership: Manish Rajani (PoC)
 
-
+<!--
 ### Application Form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtQyZK9fUnLaOnWQi_L0lo9dClUPsb4gF3hF0mFYQYlg6PlQ/viewform?embedded=true" width="640" height="1113" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtQyZK9fUnLaOnWQi_L0lo9dClUPsb4gF3hF0mFYQYlg6PlQ/viewform?embedded=true" width="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+-->
 
 Please note, while you are welcome to be a member of as many (or all) of the wings, we would recommend you to opt for leadership in only a single department (keeping in mind your time constraints). 
 
-**All the best!**
+**Update:** Inductions have conducluded and we're very happy to welcome a very talented group of people to the core of the CS Society! We wish them the best and look forward to working with them.

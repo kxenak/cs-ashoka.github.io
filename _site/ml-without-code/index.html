@@ -14,8 +14,8 @@
 <meta property="og:title" content="Machine Learning without Code" />
 <meta name="author" content="soham" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." />
-<meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." />
+<meta name="description" content="This workshop was conducted as a preliminary introduction to Machine Learning, without any prerequisite knowledge of Programming, Statistics or Calculus. This isn’t a formal gateway or introduction to the field, but a nosedive into deep-learning, involving a hands-on project. In under 60 minutes, the workshop participants gained a high-level understanding of how machines learn and built their first image classifier (using Google’s Teachable Machines)." />
+<meta property="og:description" content="This workshop was conducted as a preliminary introduction to Machine Learning, without any prerequisite knowledge of Programming, Statistics or Calculus. This isn’t a formal gateway or introduction to the field, but a nosedive into deep-learning, involving a hands-on project. In under 60 minutes, the workshop participants gained a high-level understanding of how machines learn and built their first image classifier (using Google’s Teachable Machines)." />
 <link rel="canonical" href="http://localhost:4000/ml-without-code/" />
 <meta property="og:url" content="http://localhost:4000/ml-without-code/" />
 <meta property="og:site_name" content="CS Society" />
@@ -23,7 +23,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-11-13T00:00:00+05:30" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/ml-without-code/","headline":"Machine Learning without Code","dateModified":"2020-11-13T00:00:00+05:30","datePublished":"2020-11-13T00:00:00+05:30","image":"http://localhost:4000/assets/images/mlnocode.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/ml-without-code/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/cssoc.png"},"name":"soham"},"author":{"@type":"Person","name":"soham"},"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.","@type":"BlogPosting","@context":"http://schema.org"}</script>
+{"url":"http://localhost:4000/ml-without-code/","headline":"Machine Learning without Code","dateModified":"2020-11-13T00:00:00+05:30","datePublished":"2020-11-13T00:00:00+05:30","image":"http://localhost:4000/assets/images/mlnocode.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/ml-without-code/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/images/cssoc.png"},"name":"soham"},"author":{"@type":"Person","name":"soham"},"description":"This workshop was conducted as a preliminary introduction to Machine Learning, without any prerequisite knowledge of Programming, Statistics or Calculus. This isn’t a formal gateway or introduction to the field, but a nosedive into deep-learning, involving a hands-on project. In under 60 minutes, the workshop participants gained a high-level understanding of how machines learn and built their first image classifier (using Google’s Teachable Machines).","@type":"BlogPosting","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -135,10 +135,12 @@
 <!-- Site Title
 ================================================== -->
 <div class="mainheading">
+
     <h1 class="sitetitle">CS Society</h1>
     <p class="lead">
         The official CS Society of Ashoka University
     </p>
+    <img src="/assets/images/banner.png" width="100%" alt="Ashoka on Minecraft">
 </div>
 
 <!-- Content
@@ -233,7 +235,45 @@
                 <!-- Toc if any -->
                 
                 <!-- End Toc -->
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p>This workshop was conducted as a preliminary introduction to Machine Learning, without any prerequisite knowledge of Programming, Statistics or Calculus. This isn’t a formal gateway or introduction to the field, but a nosedive into deep-learning, involving a hands-on project. In under 60 minutes, the workshop participants gained a high-level understanding of how machines learn and built their first image classifier (using Google’s Teachable Machines).</p>
+
+<h2 id="what-is-machine-learning">What is Machine Learning?</h2>
+
+<p>Machine learning focuses on the use of data and algorithms to imitate the way that humans learn. Atleast that was the motivating idea when it started. Machine Learning falls under the larger umbrella of Artificial Intelligence (AI) which concerns machines that are capable of doing tasks requiring ‘human intelligence’. The following illustration should help illustrate this:</p>
+
+<p><img src="/assets/images/ml-venn.png" alt="Logging in on Overleaf" /></p>
+
+<h2 id="how-do-machines-learn">How do Machines learn?</h2>
+
+<p>The process of supervised machine learning can be broadly broken down into 3 distinct steps (following <a href="https://ischoolonline.berkeley.edu/blog/what-is-machine-learning/">this</a> example from UC Berkeley):</p>
+
+<ol>
+  <li><strong>A Decision Process:</strong> In general, machine learning algorithms are used to make a prediction or classification. Based on some input data, which can be labelled or unlabeled, your algorithm will produce an estimate about a pattern in the data.</li>
+  <li><strong>An Error Function:</strong> An error function serves to evaluate the prediction of the model. If there are known examples, an error function can make a comparison to assess the accuracy of the model.</li>
+  <li><strong>A Model Optimization Process:</strong> If the model can fit better to the data points in the training set, then weights are adjusted to reduce the discrepancy between the known example and the model estimate. The algorithm will repeat this evaluate and optimize process, updating weights autonomously until a threshold of accuracy has been met.</li>
+</ol>
+
+<h2 id="challenges-in-todays-machine-learning">Challenges in today’s Machine Learning</h2>
+
+<h3 id="privacy">Privacy</h3>
+
+<p>In 2016, European Union passed the GDPR to protect the personal data of people in the European Union and European Economic Area. Some US states are also developing policies, such as the California Consumer Privacy Act (CCPA), which require businesses to inform consumers about the collection of their data. This recent legislation has forced companies to rethink how they store and use personally identifiable data (PII). This affects the availability of data for training Machine Learning models. This problem gave birth to an active area of research in Privacy-Preserving Machine Learning</p>
+
+<h3 id="bias-and-discrimination">Bias and Discrimination</h3>
+
+<p>In their effort to automate and simplify a process, Amazon unintentionally biased potential job candidates by gender for open technical roles, and they ultimately had to scrap the project. Many similar events have raised other pointed questions around the use of AI within hiring practices, such as what data should you be able to use when evaluating a candidate for a role.</p>
+
+<p>Bias and discrimination aren’t limited to the human resources function either; it can be found in a number of applications from facial recognition software to social media algorithms.</p>
+
+<h3 id="accountability">Accountability</h3>
+
+<p>Since there isn’t significant legislation to regulate AI practices, there is no real enforcement mechanism to ensure that ethical AI is practiced. The current incentives for companies to adhere to these guidelines are the negative repercussions of an unethical AI system to the bottom line. To fill the gap, ethical frameworks have emerged as part of a collaboration between ethicists and researchers to govern the construction and distribution of AI models within society.</p>
+
+<h2 id="workshop-slides-and-recordings">Workshop Slides and Recordings</h2>
+
+<iframe src="/assets/files/ml1.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+<p>Recordings are availabe on the CS Society drive (shared internally)</p>
 
             </div>
 

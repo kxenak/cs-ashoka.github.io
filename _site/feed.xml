@@ -5,8 +5,8 @@
     <description>The official CS Society of Ashoka University</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Jul 2021 08:52:44 +0530</pubDate>
-    <lastBuildDate>Wed, 21 Jul 2021 08:52:44 +0530</lastBuildDate>
+    <pubDate>Wed, 21 Jul 2021 13:27:45 +0530</pubDate>
+    <lastBuildDate>Wed, 21 Jul 2021 13:27:45 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -23,13 +23,15 @@
   &lt;li&gt;&lt;strong&gt;CS Research&lt;/strong&gt; - If reading research papers, and learning about new advancements in the field of Computer Science is for you, join the CS Research wing, where we’ll organize reading sessions and conduct independent research on exciting themes. Current Leadership: Manish Rajani (PoC)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;application-form&quot;&gt;Application Form&lt;/h3&gt;
+&lt;!--
+### Application Form
 
-&lt;iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdtQyZK9fUnLaOnWQi_L0lo9dClUPsb4gF3hF0mFYQYlg6PlQ/viewform?embedded=true&quot; width=&quot;640&quot; height=&quot;1113&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading…&lt;/iframe&gt;
+&lt;iframe src=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdtQyZK9fUnLaOnWQi_L0lo9dClUPsb4gF3hF0mFYQYlg6PlQ/viewform?embedded=true&quot; width=&quot;640&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading…&lt;/iframe&gt;
+--&gt;
 
 &lt;p&gt;Please note, while you are welcome to be a member of as many (or all) of the wings, we would recommend you to opt for leadership in only a single department (keeping in mind your time constraints).&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;All the best!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Inductions have conducluded and we’re very happy to welcome a very talented group of people to the core of the CS Society! We wish them the best and look forward to working with them.&lt;/p&gt;
 </description>
         <pubDate>Mon, 05 Jul 2021 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/core-inductions-2021/</link>
@@ -139,7 +141,7 @@
           &lt;li&gt;These are basically enclosed spaces that have a specific output format. They have a &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin&lt;/code&gt; and an &lt;code class=&quot;highlighter-rouge&quot;&gt;\end&lt;/code&gt; (like most living things).&lt;/li&gt;
           &lt;li&gt;Examples
             &lt;ul&gt;
-              &lt;li&gt;Math (Inline) - &lt;code class=&quot;highlighter-rouge&quot;&gt;$(a + b)^2 = a^2 + b^2 + 2 \cdot a \cdot b$&lt;/code&gt; outputs $(a + b)^2 = a^2 + b^2 + 2 \cdot a \cdot b$&lt;/li&gt;
+              &lt;li&gt;Math (Inline) - &lt;code class=&quot;highlighter-rouge&quot;&gt;$(a + b)^2 = a^2 + b^2 + 2 \cdot a \cdot b$&lt;/code&gt;&lt;/li&gt;
               &lt;li&gt;Math (Multiline) - &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{align*} ... \end{align*}&lt;/code&gt; (The * omits automatic line numbering, if you simply do &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{align}&lt;/code&gt; each line will have a number)&lt;/li&gt;
               &lt;li&gt;Numbered Lists - &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{enumerate} \item ... \item ... \end{enumerate}&lt;/code&gt;&lt;/li&gt;
               &lt;li&gt;Bullet Lists - &lt;code class=&quot;highlighter-rouge&quot;&gt;\begin{itemize} \item ... \item ... \end{itemize}&lt;/code&gt;&lt;/li&gt;
@@ -158,9 +160,9 @@
               &lt;li&gt;Underline - &lt;code class=&quot;highlighter-rouge&quot;&gt;\underline{Underline (This document wasn't written in LaTeX unfortunately)}&lt;/code&gt;&lt;/li&gt;
               &lt;li&gt;Section - &lt;code class=&quot;highlighter-rouge&quot;&gt;\section{Section Name}&lt;/code&gt;&lt;/li&gt;
               &lt;li&gt;Section (Unnumbered) - &lt;code class=&quot;highlighter-rouge&quot;&gt;\section*{Unnumbered Section Name}&lt;/code&gt;&lt;/li&gt;
-              &lt;li&gt;Math Symbols - &lt;code class=&quot;highlighter-rouge&quot;&gt;\int&lt;/code&gt; $\int$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\sum&lt;/code&gt; $\sum$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\prod&lt;/code&gt; $\prod$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\times&lt;/code&gt; $\times$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\cdot&lt;/code&gt; $\cdot$ &lt;code class=&quot;highlighter-rouge&quot;&gt;\infty&lt;/code&gt; $\infty$&lt;/li&gt;
-              &lt;li&gt;Math Exponents - &lt;code class=&quot;highlighter-rouge&quot;&gt;\sqrt[n]{a}&lt;/code&gt; $\sqrt[n]{a}$ &lt;code class=&quot;highlighter-rouge&quot;&gt;A^{20}_{10}&lt;/code&gt; $A^{20}_{10}$&lt;/li&gt;
-              &lt;li&gt;Math Fractions - &lt;code class=&quot;highlighter-rouge&quot;&gt;\frac{10}{20}&lt;/code&gt; $\frac{10}{20}$&lt;/li&gt;
+              &lt;li&gt;Math Symbols - &lt;code class=&quot;highlighter-rouge&quot;&gt;\int \sum \prod \times \cdot \infty&lt;/code&gt;&lt;/li&gt;
+              &lt;li&gt;Math Exponents - &lt;code class=&quot;highlighter-rouge&quot;&gt;\sqrt[n]{a} A^{20}_{10}&lt;/code&gt;&lt;/li&gt;
+              &lt;li&gt;Math Fractions - &lt;code class=&quot;highlighter-rouge&quot;&gt;\frac{10}{20}&lt;/code&gt;&lt;/li&gt;
             &lt;/ul&gt;
           &lt;/li&gt;
         &lt;/ul&gt;
@@ -205,7 +207,45 @@
     
       <item>
         <title>Machine Learning without Code</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <description>&lt;p&gt;This workshop was conducted as a preliminary introduction to Machine Learning, without any prerequisite knowledge of Programming, Statistics or Calculus. This isn’t a formal gateway or introduction to the field, but a nosedive into deep-learning, involving a hands-on project. In under 60 minutes, the workshop participants gained a high-level understanding of how machines learn and built their first image classifier (using Google’s Teachable Machines).&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-machine-learning&quot;&gt;What is Machine Learning?&lt;/h2&gt;
+
+&lt;p&gt;Machine learning focuses on the use of data and algorithms to imitate the way that humans learn. Atleast that was the motivating idea when it started. Machine Learning falls under the larger umbrella of Artificial Intelligence (AI) which concerns machines that are capable of doing tasks requiring ‘human intelligence’. The following illustration should help illustrate this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ml-venn.png&quot; alt=&quot;Logging in on Overleaf&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-do-machines-learn&quot;&gt;How do Machines learn?&lt;/h2&gt;
+
+&lt;p&gt;The process of supervised machine learning can be broadly broken down into 3 distinct steps (following &lt;a href=&quot;https://ischoolonline.berkeley.edu/blog/what-is-machine-learning/&quot;&gt;this&lt;/a&gt; example from UC Berkeley):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;A Decision Process:&lt;/strong&gt; In general, machine learning algorithms are used to make a prediction or classification. Based on some input data, which can be labelled or unlabeled, your algorithm will produce an estimate about a pattern in the data.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;An Error Function:&lt;/strong&gt; An error function serves to evaluate the prediction of the model. If there are known examples, an error function can make a comparison to assess the accuracy of the model.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A Model Optimization Process:&lt;/strong&gt; If the model can fit better to the data points in the training set, then weights are adjusted to reduce the discrepancy between the known example and the model estimate. The algorithm will repeat this evaluate and optimize process, updating weights autonomously until a threshold of accuracy has been met.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;challenges-in-todays-machine-learning&quot;&gt;Challenges in today’s Machine Learning&lt;/h2&gt;
+
+&lt;h3 id=&quot;privacy&quot;&gt;Privacy&lt;/h3&gt;
+
+&lt;p&gt;In 2016, European Union passed the GDPR to protect the personal data of people in the European Union and European Economic Area. Some US states are also developing policies, such as the California Consumer Privacy Act (CCPA), which require businesses to inform consumers about the collection of their data. This recent legislation has forced companies to rethink how they store and use personally identifiable data (PII). This affects the availability of data for training Machine Learning models. This problem gave birth to an active area of research in Privacy-Preserving Machine Learning&lt;/p&gt;
+
+&lt;h3 id=&quot;bias-and-discrimination&quot;&gt;Bias and Discrimination&lt;/h3&gt;
+
+&lt;p&gt;In their effort to automate and simplify a process, Amazon unintentionally biased potential job candidates by gender for open technical roles, and they ultimately had to scrap the project. Many similar events have raised other pointed questions around the use of AI within hiring practices, such as what data should you be able to use when evaluating a candidate for a role.&lt;/p&gt;
+
+&lt;p&gt;Bias and discrimination aren’t limited to the human resources function either; it can be found in a number of applications from facial recognition software to social media algorithms.&lt;/p&gt;
+
+&lt;h3 id=&quot;accountability&quot;&gt;Accountability&lt;/h3&gt;
+
+&lt;p&gt;Since there isn’t significant legislation to regulate AI practices, there is no real enforcement mechanism to ensure that ethical AI is practiced. The current incentives for companies to adhere to these guidelines are the negative repercussions of an unethical AI system to the bottom line. To fill the gap, ethical frameworks have emerged as part of a collaboration between ethicists and researchers to govern the construction and distribution of AI models within society.&lt;/p&gt;
+
+&lt;h2 id=&quot;workshop-slides-and-recordings&quot;&gt;Workshop Slides and Recordings&lt;/h2&gt;
+
+&lt;iframe src=&quot;/assets/files/ml1.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Recordings are availabe on the CS Society drive (shared internally)&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Nov 2020 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/ml-without-code/</link>
