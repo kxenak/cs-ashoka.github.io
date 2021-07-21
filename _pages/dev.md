@@ -21,7 +21,7 @@ comments: true
     </div>
     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
             <a target="_blank" class="link-dark" href="{{ author.web }}"> Tanvi Roy</a>
-            <span class="author-description">(Head)</span>
+            <span class="author-description">The Mother of Dragons</span>
     </div>
 </div>
 <div class="row post-top-meta">
@@ -30,6 +30,7 @@ comments: true
     </div>
     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
             <a target="_blank" class="link-dark" href="{{ author.web }}"> Soham De</a>
+            <span class="author-description">The Chief Admirer of the Mother of Dragons</span>
     </div>
 </div>
 <div class="row post-top-meta">
@@ -38,6 +39,71 @@ comments: true
     </div>
     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
             <a target="_blank" class="link-dark" href="{{ author.web }}"> Soham Bagchi</a>
+            <span class="author-description">The Other Soham</span>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Arundhati Balasubramaniam">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Arundhati Balasubramaniam</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Medini Chopra">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Medini Chopra</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Chanchal Bajoria">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Chanchal Bajoria</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Arunima Sen">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Arunima Sen</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Eryn Wali">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Eryn Wali</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Rochan Mohapatra">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Rochan Mohapatra</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Pranav Iyengar">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Pranav Iyengar</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Shriman Visahan">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Shriman Visahan</a>
     </div>
 </div>
 

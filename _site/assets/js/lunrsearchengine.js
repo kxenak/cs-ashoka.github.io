@@ -18,12 +18,12 @@ var documents = [{
     "id": 3,
     "url": "http://localhost:4000/dev",
     "title": "Development and Machine Learning",
-    "body": "By far the coolest wing of the CS Society. We conduct various workshops and challenges throughout the year. We have regular social hours and a fun, strong, and inclusive developer community. If you're interested in software development, machine learning, hackathons, fun projects, and how to get nice internships - you're in the right place! We have big plans - and we need you to join us in the core to help realize them. Now, we want to hear from you! 🐥💻 Resources : Core Team :                 Tanvi Roy      (Head)                   Soham De      	           Soham Bagchi  "
+    "body": "By far the coolest wing of the CS Society. We conduct various workshops and challenges throughout the year. We have regular social hours and a fun, strong, and inclusive developer community. If you're interested in software development, machine learning, hackathons, fun projects, and how to get nice internships - you're in the right place! We have big plans - and we need you to join us in the core to help realize them. Now, we want to hear from you! 🐥💻 Resources : Core Team :                 Tanvi Roy      The Mother of Dragons                   Soham De      The Chief Admirer of the Mother of Dragons      	           Soham Bagchi      The Other Soham                   Arundhati Balasubramaniam                   Medini Chopra                   Chanchal Bajoria                   Arunima Sen                   Eryn Wali                   Rochan Mohapatra                   Pranav Iyengar                   Shriman Visahan  "
     }, {
     "id": 4,
     "url": "http://localhost:4000/dsa",
     "title": "Data Structures and Algorithms",
-    "body": "If you're someone who likes to find newer, faster, and more interesting ways of tackling programming problems, the DSA Wing is for you. Rebranded from the earlier Competitive Programming Wing, the DSA Wing is a place to engage in collaboration (and a little bit of competition). Together, we'll prepare for mid/large (Uber, Microsoft, Google, Ola) company technical interviews for internship/job opportunities, along with other programming contests like the ACM-ICPC, Google Kickstart, Facebook HackerCup etc.  Core Team :                 Vibodh Nautiyal      Core, Data Structures and Algorithms                   Akshat Singh      Core, Data Structures and Algorithms  "
+    "body": "If you're someone who likes to find newer, faster, and more interesting ways of tackling programming problems, the DSA Wing is for you. Rebranded from the earlier Competitive Programming Wing, the DSA Wing is a place to engage in collaboration (and a little bit of competition). Together, we'll prepare for mid/large (Uber, Microsoft, Google, Ola) company technical interviews for internship/job opportunities, along with other programming contests like the ACM-ICPC, Google Kickstart, Facebook HackerCup etc.  Core Team :                 Vibodh Nautiyal      Core, Data Structures and Algorithms                   Akshat Singh      Core, Data Structures and Algorithms                   Adwaiya Srivastav                   Ankit Sharma                   Diya Khurdia  "
     }, {
     "id": 5,
     "url": "http://localhost:4000/",
@@ -33,7 +33,7 @@ var documents = [{
     "id": 6,
     "url": "http://localhost:4000/research",
     "title": "CS Research",
-    "body": "Join Ashoka's growing list of innovative CS Researchers with paper-reading and brainstorming sessions.  Core Team :                 Manish Rajani      Head, CS Research  "
+    "body": "Join Ashoka's growing list of innovative CS Researchers with paper-reading and brainstorming sessions.  Core Team :                 Manish Rajani      Head, CS Research                   Aakash Rao                   Esha Machanda                   Atharvi Bias                   Prithvi Arun  "
     }, {
     "id": 7,
     "url": "http://localhost:4000/robots.txt",

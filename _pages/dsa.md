@@ -31,6 +31,30 @@ comments: true
             <span class="author-description">Core, Data Structures and Algorithms</span>
     </div>
 </div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Adwaiya Srivastav">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Adwaiya Srivastav</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Ankit Sharma">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Ankit Sharma</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Diya Khurdia">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Diya Khurdia</a>
+    </div>
+</div>
 
 </div>
 

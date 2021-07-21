@@ -22,8 +22,38 @@ comments: true
             <span class="author-description">Head, CS Research</span>
     </div>
 </div>
-
-
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Aakash Rao">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Aakash Rao</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Esha Machanda">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Esha Machanda</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Atharvi Bias">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Atharvi Bias</a>
+    </div>
+</div>
+<div class="row post-top-meta">
+    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Prithvi Arun">
+    </div>
+    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+            <a target="_blank" class="link-dark" href="{{ author.web }}"> Prithvi Arun</a>
+    </div>
+</div>
 
 </div>
 
