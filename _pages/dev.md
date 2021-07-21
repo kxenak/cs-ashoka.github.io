@@ -57,7 +57,7 @@ comments: true
   </div>
   <div class="four">
       <center>
-        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Medini Chopra">
+        <img class="author-thumb" src="assets/images/medini.png" alt="Medini Chopra">
         <span class="author-description"> <br/> <b>Medini Chopra</b> <br/> <font size="-1">New Core Member!</font></span>
         </center>
   </div>
