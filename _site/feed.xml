@@ -5,8 +5,8 @@
     <description>The official CS Society of Ashoka University</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Jul 2021 18:19:36 +0530</pubDate>
-    <lastBuildDate>Wed, 21 Jul 2021 18:19:36 +0530</lastBuildDate>
+    <pubDate>Thu, 22 Jul 2021 21:51:44 +0530</pubDate>
+    <lastBuildDate>Thu, 22 Jul 2021 21:51:44 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -75,7 +75,16 @@
     
       <item>
         <title>Alumni Connect - S1</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <description>&lt;p&gt;The Alumni Connect is a series of roundtables organised by the CS Society to bring together current undergraduates and CS Alumni from Ashoka. This is a highly anticipated event, where students get to interact with their seniors, often after years and is also very inspiring for everyone!&lt;/p&gt;
+
+&lt;p&gt;The CS alumni panelists for this edition are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Archit Checker&lt;/strong&gt; is a Software Engineering Fellow at AmuseLabs. While at Ashoka, he interned in CO-Sys and TCPD. He has also interned at Lehigh University, USA.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Barun Parruck&lt;/strong&gt; is a Software Developer at Google. He plays chess, is an accomplished pianist and types very fast. During his UG he also interned at Microsoft which he converted to a PPO.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nishka Dasgupta&lt;/strong&gt; is a Research Fellow at MSR India, working in SMPC. During her UG days, she has interned at TIFR and NTU, Singapore. She has also been an Outreachy Intern.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Preetha Datta&lt;/strong&gt; is a Software Developer at Groww. Prior to this, she was a ML developer at Ceretai Stockholm and a Research Assistant at Aalto University, Finland. While at Ashoka, she had also interned at Cashfree&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Sun, 04 Apr 2021 00:00:00 +0530</pubDate>
@@ -89,7 +98,14 @@
     
       <item>
         <title>Exploring CS Research with Prof Debayan</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <description>&lt;p&gt;This session was organized by the Research Wing of the Computer Science Society on the 7&lt;sup&gt;th&lt;/sup&gt; of February, 2021. This was an informative session for the entire student body by Professor Debayan Gupta, Assistant Professor at Ashoka University, about how Computer Science research works at Ashoka. Professor Debayan also talked about interdisciplinary research and its importance in the current day. It was an hour long session with 70+ attendees. If you wish to watch the recording of this session, email us on cs.society@ashoka.edu.in&lt;/p&gt;
+
+&lt;h2 id=&quot;about-cs-research&quot;&gt;About CS Research&lt;/h2&gt;
+
+&lt;p&gt;Research is something that’s often interpreted as boring and intimidating. This session was organized solely for the purpose of helping it become more accessible to student, promoting the idea that “research is for everyone”. This session also helped debunk several myths the students had, like the fact that students in their first year cannot participate in CS Research while actually, they can.&lt;/p&gt;
+
+&lt;h2 id=&quot;research-wing&quot;&gt;Research Wing&lt;/h2&gt;
+&lt;p&gt;The research wing of the CS society works on organizing events like this and conducting several other projects, ranging from facilitating research to organizing reading groups. The membership for the research wing is open: one can simply join the WhatsApp group where all the announcements are made. &lt;a href=&quot;mailto: cs.society@ashoka.edu.in&quot;&gt;Email&lt;/a&gt; us for more info!&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/cs-research-debg/</link>
@@ -273,7 +289,9 @@
     
       <item>
         <title>Exploring Open-Source with Hacktoberfest</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <description>&lt;p&gt;Hacktoberfest 2020 is a month-long event powered by DigitalOcean, Intel, and DEV to promote the culture of open-source software. In our workshop this Sunday ‘Introduction to Git and GitHub’, you’ll be learning all about Version Control and be prepared to start contributing to the open-source community! If you actively contribute to public repositories in October (and we’ll teach you all of this!), you’ll be getting a free Official Hacktoberfest T-Shirt from DigitalOcean and many more developer swags!&lt;/p&gt;
+
+&lt;p&gt;If you’re new to this, we highly recommend attending our introductory workshop (open to all Ashokans), which is officially recognized by DigitalOcean and listed here. All workshop attendees will also get access to official Hacktoberfest resources, cheatsheets, and goodies.&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Oct 2020 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/hacktoberfest-2020/</link>

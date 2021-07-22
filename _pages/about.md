@@ -63,7 +63,7 @@ comments: true
   <div class="four">
       <center>
         <img class="author-thumb" src="assets/images/akshat.png" alt="Akshat Singh">
-        <span class="author-description"> <br/> <b>Esha Machanda</b> <br/> <font size="-1">Head, DSA</font></span>
+        <span class="author-description"> <br/> <b>Akshat Singh</b> <br/> <font size="-1">Head, DSA</font></span>
         </center>
   </div>
   <div class="five">

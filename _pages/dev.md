@@ -33,50 +33,50 @@ comments: true
 <div class="dev-wrapper2">  
   <div class="two">
         <center>
-        <img class="author-thumb" src="assets/images/placeholder-female.png" alt=">Arundhati Balasubramaniam">
-        <span class="author-description"> <br/> <b>Arundhati Balasubramaniam</b> <br/> <font size="-1">New Core Member!</font></span>
+        <img class="author-thumb" src="assets/images/arundhati.png" alt=">Arundhati Balasubramaniam">
+        <span class="author-description"> <br/> <b>Arundhati Balasubramaniam</b> <br/> <font size="-1">Proud iPad owner</font></span>
         </center>
   </div>
   <div class="three">
       <center>
-        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Arunima Sen">
-        <span class="author-description"> <br/> <b>Arunima Sen</b> <br/> <font size="-1">New Core Member!</font></span>
+        <img class="author-thumb" src="assets/images/arunima.png" alt="Arunima Sen">
+        <span class="author-description"> <br/> <b>Arunima Sen</b> <br/> <font size="-1">Intimidating Kickboxer</font></span>
         </center>
   </div>
   <div class="four">
       <center>
-        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Chanchal Bajoria">
-        <span class="author-description"> <br/> <b>Chanchal Bajoria</b> <br/> <font size="-1">New Core Member!</font></span>
+        <img class="author-thumb" src="assets/images/chanchal.png" alt="Chanchal Bajoria">
+        <span class="author-description"> <br/> <b>Chanchal Bajoria</b> <br/> <font size="-1">Tiny but will Kill You</font></span>
         </center>
   </div>
   <div class="four">
       <center>
-        <img class="author-thumb" src="assets/images/placeholder-female.png" alt="Eryn Wali">
-        <span class="author-description"> <br/> <b>Eryn Wali</b> <br/> <font size="-1">New Core Member!</font></span>
+        <img class="author-thumb" src="assets/images/eryn.png" alt="Eryn Wali">
+        <span class="author-description"> <br/> <b>Eryn Wali</b> <br/> <font size="-1">Codes on a Graphic Tablet</font></span>
         </center>
   </div>
   <div class="four">
       <center>
         <img class="author-thumb" src="assets/images/medini.png" alt="Medini Chopra">
-        <span class="author-description"> <br/> <b>Medini Chopra</b> <br/> <font size="-1">New Core Member!</font></span>
+        <span class="author-description"> <br/> <b>Medini Chopra</b> <br/> <font size="-1">Abhinaya Representative</font></span>
         </center>
   </div>
   <div class="four">
       <center>
-        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Pranav Iyengar">
-        <span class="author-description"> <br/> <b>Pranav Iyengar</b> <br/> <font size="-1">New Core Member!</font></span>
+        <img class="author-thumb" src="assets/images/pranav.png" alt="Pranav Iyengar">
+        <span class="author-description"> <br/> <b>Pranav Iyengar</b> <br/> <font size="-1">Self Diagnosed Hypochondriac</font></span>
         </center>
   </div>
   <div class="five">
       <center>
-        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Rochan Mohapatra">
-        <span class="author-description"> <br/> <b>Rochan Mohapatra</b> <br/> <font size="-1">New Core Member!</font></span>
+        <img class="author-thumb" src="assets/images/rochan.png" alt="Rochan Mohapatra">
+        <span class="author-description"> <br/> <b>Rochan Mohapatra</b> <br/> <font size="-1">In-house Counsel and Data Geek</font></span>
         </center>
   </div>
   <div class="five">
       <center>
-        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Shriman Visahan">
-        <span class="author-description"> <br/> <b>Shriman Visahan</b> <br/> <font size="-1">New Core Member!</font></span>
+        <img class="author-thumb" src="assets/images/shriman.png" alt="Shriman Visahan">
+        <span class="author-description"> <br/> <b>Shriman Visahan</b> <br/> <font size="-1">Chief Authority on Sambhar</font></span>
         </center>
   </div>
 </div>
