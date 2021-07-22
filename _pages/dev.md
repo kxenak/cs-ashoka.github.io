@@ -64,7 +64,7 @@ comments: true
   <div class="four">
       <center>
         <img class="author-thumb" src="assets/images/pranav.png" alt="Pranav Iyengar">
-        <span class="author-description"> <br/> <b>Pranav Iyengar</b> <br/> <font size="-1">Self Diagnosed Hypochondriac</font></span>
+        <span class="author-description"> <br/> <b>Pranav Iyengar</b> <br/> <font size="-1">Got 11 likes on an Instagram comment once</font></span>
         </center>
   </div>
   <div class="five">
