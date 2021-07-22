@@ -58,7 +58,7 @@ comments: true
   <div class="four">
       <center>
         <img class="author-thumb" src="assets/images/medini.png" alt="Medini Chopra">
-        <span class="author-description"> <br/> <b>Medini Chopra</b> <br/> <font size="-1">Abhinaya Representative</font></span>
+        <span class="author-description"> <br/> <b>Medini Chopra</b> <br/> <font size="-1">Your friendly neighbourhood Desi Girl</font></span>
         </center>
   </div>
   <div class="four">
