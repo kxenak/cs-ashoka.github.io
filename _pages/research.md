@@ -20,12 +20,6 @@ comments: true
         <span class="author-description"> <br/> <b>Manish Rajani</b> <br/> <font size="-1">Musician and part-time Academic</font></span>
         </center>
   </div>
-  <div class="one">
-        <center>
-        <img class="author-thumb" src="assets/images/soham.png" alt="Soham De">
-        <span class="author-description"> <br/> <b>Soham De</b> <br/> <font size="-1">Professional Time Waster</font></span>
-        </center>
-  </div>
   <div class="two">
         <center>
         <img class="author-thumb" src="assets/images/placeholder-male.png" alt=">Aakash Rao">
