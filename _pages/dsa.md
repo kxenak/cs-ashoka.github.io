@@ -26,12 +26,6 @@ comments: true
         <span class="author-description"> <br/> <b>Akshat Singh</b> <br/> <font size="-1">A FAANG-tastic Coder</font></span>
         </center>
   </div>
-  <div class="three">
-      <center>
-        <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Adwaiya Srivastav">
-        <span class="author-description"> <br/> <b>Adwaiya Srivastav</b> <br/> <font size="-1">New Core Member!</font></span>
-        </center>
-  </div>
   <div class="four">
       <center>
         <img class="author-thumb" src="assets/images/placeholder-male.png" alt="Ankit Sharma">
