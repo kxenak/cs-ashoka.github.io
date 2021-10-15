@@ -4,6 +4,7 @@ title:  "Hacktoberfest@Ashoka 2021"
 author: soham
 categories: [ dev, tutorial ]
 image: assets/images/Hacktoberfest2.png
+featured: true
 ---
 
 Join us this **Sunday (17th October 2021)** for our Hacktoberfest Introductory Session. 

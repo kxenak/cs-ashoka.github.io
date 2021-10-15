@@ -4,7 +4,7 @@ title:  "Core Inductions!"
 author: admin
 categories: [ Jekyll, tutorial ]
 image: assets/images/induction.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
