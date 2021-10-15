@@ -20,6 +20,6 @@ Following the success of last year, we are back with more events and eminent gue
 
 Join us with [Google Meet](meet.google.com/jmz-hgea-mkr)!
 
->>> Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. It consists of a challenge that encourages people to contribute to any open source projects. The first 70,000 participants to complete the challenge will receive a bunch of free SWAG, including a limited edition Hacktoberfest t-shirt as a reward.
+> Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. It consists of a challenge that encourages people to contribute to any open source projects. The first 70,000 participants to complete the challenge will receive a bunch of free SWAG, including a limited edition Hacktoberfest t-shirt as a reward.
 
 Official Hacktoberfest website: (https://hacktoberfest.digitalocean.com/)
