@@ -23,7 +23,7 @@ comments: true
 <br/>
 
 <h4>Our Manifesto</h4>
-<iframe src="/assets/files/readme.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/assets/files/readme1.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 <br/>
 <br/>
@@ -38,38 +38,14 @@ comments: true
 <div class="wrapper">
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/bagchi.png" alt="Soham Bagchi">
-        <span class="author-description"> <br/> <b>Soham Bagchi</b> <br/> <font size="-1">President</font></span>
+        <img class="author-thumb" src="assets/images/rao.jpg" alt="Aakash Rao">
+        <span class="author-description"> <br/> <b>Aakash Rao</b> <br/> <font size="-1">President</font></span>
         </center>
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/tanvi.png" alt="Tanvi Roy">
-        <span class="author-description"> <br/> <b>Tanvi Roy</b> <br/> <font size="-1">Head, Dev</font></span>
-        </center>
-  </div>
-  <div class="two">
-        <center>
-        <img class="author-thumb" src="assets/images/manish.png" alt=">Manish Rajani">
-        <span class="author-description"> <br/> <b>Manish Rajani</b> <br/> <font size="-1">Head, Research</font></span>
-        </center>
-  </div>
-  <div class="three">
-      <center>
-        <img class="author-thumb" src="assets/images/vibodh.png" alt="Vibodh Nautiyal">
-        <span class="author-description"> <br/> <b>Vibodh Nautiyal</b> <br/> <font size="-1">Head, DSA</font></span>
-        </center>
-  </div>
-  <div class="four">
-      <center>
-        <img class="author-thumb" src="assets/images/akshat.png" alt="Akshat Singh">
-        <span class="author-description"> <br/> <b>Akshat Singh</b> <br/> <font size="-1">Head, DSA</font></span>
-        </center>
-  </div>
-  <div class="five">
-      <center>
-        <img class="author-thumb" src="assets/images/soham.png" alt="Soham De">
-        <span class="author-description"> <br/> <b>Soham De</b> <br/> <font size="-1">Head, Dev & Research, Founding President</font></span>
+        <img class="author-thumb" src="assets/images/medini.png" alt="Medini Chopra">
+        <span class="author-description"> <br/> <b>Medini Chopra</b> <br/> <font size="-1">President</font></span>
         </center>
   </div>
 </div>
@@ -82,14 +58,26 @@ comments: true
 <div class="dev-wrapper1">
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/onish.png" alt="Onish Garg">
-        <span class="author-description"> <br/> <b>Onish Garg</b> <br/> <font size="-1">Alumni, Currently: Google</font></span>
+        <img class="author-thumb" src="assets/images/soham.png" alt="Soham De">
+        <span class="author-description"> <br/> <b>Soham De</b> <br/> <font size="-1">Founding President</font></span>
         </center>
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/archit.png" alt="Archit Checker">
-        <span class="author-description"> <br/> <b>Archit Checker</b> <br/> <font size="-1">Ex-AmuseLabs</font></span>
+        <img class="author-thumb" src="assets/images/bagchi.png" alt="Soham Bagchi">
+        <span class="author-description"> <br/> <b>Soham Bagchi</b> <br/> <font size="-1">Former President</font></span>
+        </center>
+  </div>
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/manish.png" alt="Manish Rajani">
+        <span class="author-description"> <br/> <b>Manish Rajani</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/tanvi.png" alt="Tanvi Roy">
+        <span class="author-description"> <br/> <b>Tanvi Roy</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
 </div>
