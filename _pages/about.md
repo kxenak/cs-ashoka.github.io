@@ -55,7 +55,7 @@ comments: true
 
 <h6> Members </h6>
 
-<div class="wrapper">
+<div class="dev-wrapper1">
 
   <div class="one">
         <center>
