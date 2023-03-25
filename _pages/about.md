@@ -59,7 +59,7 @@ comments: true
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/joymehtacrop.jpeg" alt="Joy Mehta">
+        <img class="author-thumb" src="assets/images/medini.png" alt="Joy Mehta">
         <span class="author-description"> <br/> <b>Joy Mehta</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
