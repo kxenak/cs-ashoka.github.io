@@ -44,7 +44,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/medini.png" alt="Medini Chopra">
+        <img class="author-thumb" src="assets/images/joymehtacrop.jpeg" alt="Medini Chopra">
         <span class="author-description"> <br/> <b>Medini Chopra</b> <br/> <font size="-1">President</font></span>
         </center>
   </div>
