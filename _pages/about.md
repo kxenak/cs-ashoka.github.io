@@ -53,6 +53,106 @@ comments: true
 <br/>
 <br/>
 
+<h6> Members </h6>
+
+<div class="wrapper">
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/joymehtacrop.jpeg" alt="Joy Mehta">
+        <span class="author-description"> <br/> <b>Joy Mehta</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/karankumarcrop.jpg" alt="Karan Kumar">
+        <span class="author-description"> <br/> <b>Karan Kumar</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/natashasobti.jpeg" alt="Natasha Sobti">
+        <span class="author-description"> <br/> <b>Natasha Sobti</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/bhumikamittal.jpg" alt="Bhumika Mittal">
+        <span class="author-description"> <br/> <b>Bhumika Mittal</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/himangiparekh.jpeg" alt="Himangi Parekh">
+        <span class="author-description"> <br/> <b>Himangi Parekh</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/aryannath.jpg" alt="Aryan Nath">
+        <span class="author-description"> <br/> <b>Aryan Nath</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/mihiraggarwal.jpg" alt="Mihir Aggarwal">
+        <span class="author-description"> <br/> <b>Mihir Aggarwal</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/kahaanshahcrop.jpg" alt="Kahaan Shah">
+        <span class="author-description"> <br/> <b>Kahaan Shah</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/yogyasareencrop.jpg" alt="Yogya Sareen">
+        <span class="author-description"> <br/> <b>Yogya Sareen</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+  
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/shreychhabracrop.png" alt="Shrey Chhabra">
+        <span class="author-description"> <br/> <b>Shrey Chhabra</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/manyagarg.jpeg" alt="Manya Garg">
+        <span class="author-description"> <br/> <b>Manya Garg</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/pranitsinha.jpg" alt="Pranit Sinha">
+        <span class="author-description"> <br/> <b>Pranit Sinha</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/gautamahujacrop.jpeg" alt="Gautam Ahuja">
+        <span class="author-description"> <br/> <b>Gautam Ahuja</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+
+</div>
+
+<br/>
+<br/>
+
 <h6> Advisory </h6>
 
 <div class="dev-wrapper1">
